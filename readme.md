@@ -2,6 +2,10 @@
 
 <br/>
 
+Projeto para criação de uma API RESTful em Laravel com autenticação oAuth. 
+
+Sendo possível a criação de tokens de acesso, expiração e controle com níveis de acesso.  
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
